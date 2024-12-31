@@ -1,0 +1,8 @@
+#packages 
+langchain
+langchain-openai
+openai
+pinecone
+python-dotenv
+langchain-community
+langchain-pinecone
